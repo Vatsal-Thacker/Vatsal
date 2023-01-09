@@ -13,3 +13,9 @@ I'm Vatsal Thacker, a Data Science enthuist📈, Python developer🐍 and ML fan
 ⚡ You'll like me if you enjoy witty takes!
 
 📫 Find me here : Vatsal.thacker08522@gmail.com
+
+Languages and Tools
+python scikit_learn Tableau Pandas Numpy Matplotlib Matplotlib SQL
+
+Connect with me
+linkedin Kaggle
